@@ -1,4 +1,4 @@
-import { SearchInput } from "@/app/(dashboard)/_components/search-input";
+import { SearchInput } from "@/components/search-input";
 import { UserButton, useAuth } from "@clerk/nextjs";
 import { usePathname } from "next/navigation";
 import { Button } from "./ui/button";
